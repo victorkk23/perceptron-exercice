@@ -1,1 +1,1 @@
-# perceptron-exercice
+# perceptron-exercise
